@@ -1,0 +1,13 @@
+C:\Users\lazec\OneDrive\Desktop\FlagsQuiz\FlagsQuiz\obj\Debug\FlagsQuiz.csprojAssemblyReference.cache
+C:\Users\lazec\OneDrive\Desktop\FlagsQuiz\FlagsQuiz\obj\Debug\FlagsQuiz.Form1.resources
+C:\Users\lazec\OneDrive\Desktop\FlagsQuiz\FlagsQuiz\obj\Debug\FlagsQuiz.Properties.Resources.resources
+C:\Users\lazec\OneDrive\Desktop\FlagsQuiz\FlagsQuiz\obj\Debug\FlagsQuiz.csproj.GenerateResource.cache
+C:\Users\lazec\OneDrive\Desktop\FlagsQuiz\FlagsQuiz\obj\Debug\FlagsQuiz.csproj.CoreCompileInputs.cache
+C:\Users\lazec\OneDrive\Desktop\FlagsQuiz\FlagsQuiz\bin\Debug\FlagsQuiz.exe.config
+C:\Users\lazec\OneDrive\Desktop\FlagsQuiz\FlagsQuiz\bin\Debug\FlagsQuiz.exe
+C:\Users\lazec\OneDrive\Desktop\FlagsQuiz\FlagsQuiz\bin\Debug\FlagsQuiz.pdb
+C:\Users\lazec\OneDrive\Desktop\FlagsQuiz\FlagsQuiz\obj\Debug\FlagsQuiz.exe
+C:\Users\lazec\OneDrive\Desktop\FlagsQuiz\FlagsQuiz\obj\Debug\FlagsQuiz.pdb
+C:\Users\lazec\OneDrive\Desktop\FlagsQuiz\FlagsQuiz\obj\Debug\FlagsQuiz.Form3.resources
+C:\Users\lazec\OneDrive\Desktop\FlagsQuiz\FlagsQuiz\obj\Debug\FlagsQuiz.Form2.resources
+C:\Users\lazec\OneDrive\Desktop\FlagsQuiz\FlagsQuiz\obj\Debug\FlagsQuiz.Form4.resources
